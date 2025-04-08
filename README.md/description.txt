@@ -1,0 +1,14 @@
+# Customer Segmentation Project
+
+This project includes:
+- SQL scripts to prepare and load data
+- Python scripts for data preprocessing
+- R scripts for customer segmentation
+- A Power BI dashboard for interactive visualization
+
+## How to Use
+
+1. Run SQL scripts in MySQL Workbench
+2. Run `preprocess.py` to clean and prepare data
+3. Run  modeling for segmentation
+4. Open Customer Segmentation pbix in Power BI Desktop
